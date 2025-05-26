@@ -1,1 +1,88 @@
 .gitihnore
+.vs/
+*.suo
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.aps
+*.bsc
+*.ncb
+*.sbr
+*.res
+*.pch
+*.idb
+*.opt
+*.log
+*.ilk
+*.builds
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.bak
+*.tmp
+*.vspscc
+*.vssscc
+*.builds
+*.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+!/packages/repositories.config # Keep this if you use PackageReference
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Rider files (if you use JetBrains Rider)
+.idea/
+
+# NUnit test results
+TestResult.xml
+*.trx
+
+# Selenium specific (e.g., downloaded drivers, if not managed by WebDriverManager)
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# User-specific files that are not part of the project
+*.user
+*.bak
+
+# Misc
+*.resharper
+*.dotSettings
+*.pidb
+*.vsp
+*.cache
+*.sdf
+*.opensdf
+*.tlog
+*.vsmdi
+*.local
+*.sqllite
+*.cpc
+
+# dotnet tool files
+.config/dotnet-tools.json
+
+# Environment variables
+.env
+.env.*
+
+# Project specific
+!README.md
+!*.sln
+!*.csproj
+!*.cs
+!*.config
+!*.json
