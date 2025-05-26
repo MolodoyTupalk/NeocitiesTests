@@ -1,0 +1,11 @@
+NeocitiesTests.Tests.Test1_CheckPageTitle
+NeocitiesTests.Tests.Test10_ViewSiteDetails
+NeocitiesTests.Tests.Test11_CheckTutorialsPage
+NeocitiesTests.Tests.Test2_CheckMainElementsVisibility
+NeocitiesTests.Tests.Test3_SearchSites
+NeocitiesTests.Tests.Test4_OpenSignUpForm
+NeocitiesTests.Tests.Test5_InvalidSignUpAttempt
+NeocitiesTests.Tests.Test6_OpenLoginForm
+NeocitiesTests.Tests.Test7_InvalidLoginAttempt
+NeocitiesTests.Tests.Test8_NavigateToBrowsePage
+NeocitiesTests.Tests.Test9_FilterSitesByTag
