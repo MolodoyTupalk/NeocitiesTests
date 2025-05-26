@@ -163,3 +163,4 @@ C:\Users\zaxar\Desktop\NeocitiesTests\obj\Debug\net9.0\refint\NeocitiesTests.dll
 C:\Users\zaxar\Desktop\NeocitiesTests\obj\Debug\net9.0\NeocitiesTests.pdb
 C:\Users\zaxar\Desktop\NeocitiesTests\obj\Debug\net9.0\NeocitiesTests.genruntimeconfig.cache
 C:\Users\zaxar\Desktop\NeocitiesTests\obj\Debug\net9.0\ref\NeocitiesTests.dll
+C:\Users\zaxar\Desktop\NeocitiesTests\obj\Debug\net9.0\NeocitiesTests.sourcelink.json

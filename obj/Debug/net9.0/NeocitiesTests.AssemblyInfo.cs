@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeocitiesTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5d825c1a58be8bb576b065b6ed1adafaf9e527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f40d556859a0db1ce0980a8f314ba8645b1615b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeocitiesTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeocitiesTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
